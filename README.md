@@ -1,3 +1,5 @@
+# https://github.com/Xeldar93/ng-lightning-frontend/blob/main/src/assets/lightning-logo.png
+# Lightning
 First version project of a simple chat using WebSocket Server and Angular, you can UP the project by this way.
 
 # 1- UP the ng-lightning-frontend using "ng serve".
